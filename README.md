@@ -2,7 +2,7 @@
 
 ![image](images/Overview.png)
 
-**Opencore Bootloader 0.8.2. Tested on Monterey 12.5**
+**Opencore Bootloader 0.8.4. Tested on Monterey 12.6**
 
 
 
@@ -15,11 +15,11 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 * **CPU**:  Intel® Core™ i7-11700 (8 cores, 2.5GHZ)
 * **iGPU**: Intel® UHD Graphics 750
 * **MotherBoard**: Dell 0GNVHC (LPC Controller - 4384)
-* **GPU**: Sapphire AMD Radeon RX460 (OC) 4GB
-* **RAM**: Micro 32GB DDR4 3200
-* **HDD**: Intel 660P 512GB (M.2)
-* **LAN**: Intel Dual Band Wireless-AC 3165 / Intel I219-LM
-* **Wi-Fi & Bluetooth**: Intel AX210
+* **GPU**: NVIDIA GeForce GT 730 2GB
+* **RAM**: Micro 16GB DDR4 2400
+* **HDD**: KBG40ZNS256G NVMe KIOXIA 256GB(M.2)
+* **LAN**: Intel I219-LM
+* **Wi-Fi & Bluetooth**: USB 蓝牙
 
 
 
